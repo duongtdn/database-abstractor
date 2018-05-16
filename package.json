@@ -1,0 +1,19 @@
+{
+  "name": "database-abstractor",
+  "version": "1.0.0",
+  "description": "abstract layer for database, api and implementation are done by database driver",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongtdn/database-abstractor.git"
+  },
+  "author": "duongtdn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duongtdn/database-abstractor/issues"
+  },
+  "homepage": "https://github.com/duongtdn/database-abstractor#readme"
+}
